@@ -3,7 +3,7 @@ Bem-vindo à coleção de projetos de desenvolvimento de games! Este repositóri
 
 ## 📂 Conteúdo do Repositório
 
-### Snake Game - ⬜⬜⬜⬜🐍🟩🟩⬜⬜⬜
+### Snake Game - 🍎⬜⬜⬜🐍🟩🟩⬜⬜⬜
 Bem-vindo ao Snake Game!  
 O projeto foi criado com o intuito de aplicar conceitos de programação e ao mesmo tempo proporcionar uma experiência divertida e desafiadora.
 
