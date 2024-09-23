@@ -6,4 +6,4 @@ Cada projeto tem seu próprio foco, seja para aprendizado, experimentação ou d
 
 ## 📂 Conteúdo do Repositório
 
-### Snake Game - 🍎⬜⬜⬜🐍🟩🟩⬜⬜⬜(https://github.com/Dericofredy/Games/blob/main/Snake)
+### [Snake Game - 🍎⬜⬜⬜🐍🟩🟩⬜⬜⬜](https://github.com/Dericofredy/Games/blob/main/Snake)
