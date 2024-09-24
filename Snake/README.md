@@ -14,3 +14,9 @@ O projeto foi criado com o intuito de aplicar conceitos de programação e ao me
 - [ ] Modo difícil: Enfrente meteoros que caem aleatoriamente e tentam destruir a cobra!
 - [ ] Pontuação: O jogo contabiliza sua pontuação conforme a cobra cresce.
 - [ ] Som: Efeitos sonoros ao comer comida ou colidir com meteoros.
+
+#### Versionamento
+
+- **MAJOR**: `0` (Primeira versão estável).
+- **MINOR**: `0` (Sem funcionalidades adicionais ainda).
+- **PATCH**: `0` (Nenhuma correção ou patch aplicado).
