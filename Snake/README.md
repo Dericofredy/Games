@@ -20,3 +20,4 @@ O projeto foi criado com o intuito de aplicar conceitos de programação e ao me
 - **MAJOR**: `0` (Primeira versão estável).
 - **MINOR**: `0` (Sem funcionalidades adicionais ainda).
 - **PATCH**: `0` (Nenhuma correção ou patch aplicado).
+- **VERSÃO**: `0`.`0`.`0`
