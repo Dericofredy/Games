@@ -4,22 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jogo Snake</title>
-    <style>
-        /* Estilos CSS para o canvas e o corpo da página */
-        canvas {
-            background-color: #000; /* Define a cor de fundo do canvas como preto */
-            display: block; /* Faz com que o canvas seja um bloco */
-            margin: 0 auto; /* Centraliza o canvas horizontalmente na página */
-            border: 2px solid #fff; /* Adiciona uma borda branca ao redor do canvas */
-        }
-        body {
-            display: flex; /* Usa flexbox para alinhar os itens */
-            justify-content: center; /* Centraliza o conteúdo horizontalmente */
-            align-items: center; /* Centraliza o conteúdo verticalmente */
-            height: 100vh; /* Define a altura do corpo como 100% da altura da janela */
-            margin: 0; /* Remove margens padrão do corpo */
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- Cria um canvas onde o jogo será desenhado -->
